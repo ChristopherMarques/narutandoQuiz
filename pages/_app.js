@@ -14,8 +14,6 @@ body {
   /* New styles */
   display: flex;
   flex-direction: column;
-  // Deixa branco no começo
-  // eslint-disable-next-line no-shadow
   color: ${({ theme }) => theme.colors.contrastText};
 }
 html, body {
@@ -51,7 +49,6 @@ export default function App({ Component, pageProps }) {
         <meta property="og:url" content="" />
         <meta property="og:title" content="Narutando Quiz" />
         <meta property="og:description" content="Quiz sobre o Anime Naruto." />
-        <meta property="og:image" content="https://i.ibb.co/wssbmR4/imagem-2021-02-07-023816.png" />
         <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet" />
       </Head>
       <ThemeProvider theme={db.theme}>

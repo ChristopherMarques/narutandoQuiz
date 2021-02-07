@@ -25,12 +25,7 @@ const Path = styled.path`
 function Logo({ className }) {
   return (
     <Link href="/">
-      <Image
-        className={className}
-        src="https://i.ibb.co/znzKWVX/logo.png"
-        width={160}
-        height={100}
-      />
+      <img className={className} src="https://i.ibb.co/znzKWVX/logo.png"/>
     </Link>
 
   );
