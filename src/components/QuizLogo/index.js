@@ -27,7 +27,7 @@ function Logo({ className }) {
     <Link href="/">
       <Image
         className={className}
-        src="/../public/logo.png"
+        src="https://i.ibb.co/znzKWVX/logo.png"
         width={160}
         height={100}
       />
