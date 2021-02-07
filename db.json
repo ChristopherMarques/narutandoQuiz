@@ -1,0 +1,278 @@
+{
+    "bg": "https://hdwallpapers.cat/wallpaper/team-7-beauty-anime-female-boy-shinobi-girl-94bT.jpg",
+    "bgSecondary": "https://hdwallpapers.cat/wallpaper/team-7-beauty-anime-female-boy-shinobi-girl-94bT.jpg", 
+    "title": "Narutando Quiz",
+    "description": "Teste os seus conhecimentos sobre o anime favorito da galera!",
+    "result": {
+      "bad": {
+        "image": "https://media1.tenor.com/images/d92a1cf8aef657f514349872e882dae6/tenor.gif?itemid=12751722",
+        "message": "VAI PRA GUILHOTINA, HEIN? Seu resultado não foi tão bom, mas pode tentar novamente!",
+        "imageExternal": "https://media1.tenor.com/images/d92a1cf8aef657f514349872e882dae6/tenor.gif?itemid=12751722",
+        "messageExternal": "VAI PRA GUILHOTINA, HEIN? Seu resultado não foi tão bom, mas pode tentar novamente!"
+      },
+      "regular": {
+        "image":  "https://media1.tenor.com/images/96bd57dfd46d27a32d435ad8eb82a997/tenor.gif?itemid=18147018",
+        "message": "É... Está quase se tornando um ninja de respeito viu? mas tente melhorar!",
+        "imageExternal": "https://media1.tenor.com/images/96bd57dfd46d27a32d435ad8eb82a997/tenor.gif?itemid=18147018",
+        "messageExternal": "É... Está quase se tornando um ninja de respeito viu? mas tente melhorar!"
+      }, 
+      "good": {
+        "image":  "https://media1.tenor.com/images/4a9b68a4e588dd91617df6e736e428ca/tenor.gif?itemid=13984229",
+        "message": "UAU, você realmente é um ninja de respeito. TO CERTO, DATTEBAYO!",
+        "imageExternal": "https://media1.tenor.com/images/4a9b68a4e588dd91617df6e736e428ca/tenor.gif?itemid=13984229",
+        "messageExternal": "UAU, você realmente é um ninja de respeito. TO CERTO, DATTEBAYO!"
+      }
+    },
+    "questions": [
+      {
+        "image": "https://media1.tenor.com/images/7e4aa5e6bd9c717bef33f11cce2188ee/tenor.gif?itemid=17477767",
+        "title": "Quem foi o primeiro jinchuuriki da kurama?",
+        "description": "Essa é pra aquecer",
+        "answer": 1,
+        "alternatives": [
+          "Mila", 
+          "Mito",
+          "Kushina",
+          "Naruto"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/7fc89624ac7572b32a78f6696883cac3/tenor.gif?itemid=4724946",
+        "title": "Quem fundou a akatsuki?",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "Yahiko",
+           "Nagato",
+           "Obito",
+           "Konan"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/bcfbaa4f6dbce9e605775c5cb927ad44/tenor.gif?itemid=14801470",
+        "title": "Quem deu o nome de Konoha?",
+        "description": "Hm...",
+        "answer": 3,
+        "alternatives": [
+           "Tobirama",
+           "Hashirama",
+           "Hiruzen",
+           "Madara"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/f52f84e833867c9cfa4bc9242d4de09e/tenor.gif?itemid=11574888",
+        "title": "Quais são os nomes dos dois filhos da Kaguya?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "Haruma e Hagororo",
+           "Hamura e Hobira ",
+           "Indra e ashura",
+           "Hamura e Hagoromo"
+        ]
+      },
+      {
+        "image": "https://media.tenor.com/images/af4c939a1275ad68e77befef2fdea636/tenor.gif",
+        "title": "Quantos portões o Gai abre?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "5",
+           "4",
+           "9",
+           "8",
+           "6"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/fdd2bc4a0d089776c07281e87dbf40d2/tenor.gif?itemid=17417779",
+        "title": "Quem foi o sensei dos 3 sennins lendários?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Danzo",
+           "Hiruzen",
+           "Hanzo",
+           "Tobirama"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/e43bb488a01f87e5dc6e9ffcbd1fbcdf/tenor.gif?itemid=17609954",
+        "title": "Quem que grita Onegai para o naruto?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "Tsunade",
+           "Hinata",
+           "Sakura",
+           "TenTen"
+        ]
+      },
+      {
+        "image": "https://media.tenor.com/images/0383001e98f0dcd450dbec175979f01a/tenor.gif",
+        "title": "Quem inventou o Kage Bushin e Edo Tensei?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "Orochimaru",
+           "Minato",
+           "Hashirama",
+           "Tobirama"
+        ]
+      },
+      {
+        "image": "https://media.tenor.com/images/99d2cdd5d7c6416741f8303597398cd6/tenor.gif",
+        "title": "Qual é o nome da bijuu de 8 caudas?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Matatabi",
+           "Gyuki",
+           "Isobu",
+           "Kokuou"
+        ]
+      },
+      {
+        "image": "https://media.tenor.com/images/a2516c671d67c909de5a4e8bf1673ed3/tenor.gif",
+        "title": "Quem foi que roubou o olho do Shisui Uchiha?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "Itachi",
+           "Obito",
+           "Danzo",
+           "Madara"
+        ]
+      },
+      {
+        "image": "https://media.tenor.com/images/a3c2db48d1e8b64d08760b1e103333d8/tenor.gif",
+        "title": "Quem foi o único promovido a Chunnin?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "Shino",
+           "Neji",
+           "Shikamaru",
+           "Sakura"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/c10c0101d502915110b56377feacab61/tenor.gif?itemid=5032445",
+        "title": "Todos os personagens ruivos que aparece em Naruto são do clã Uzumaki?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Verdadeiro",
+           "Falso"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/b676bf3cefe8333d0162973d0125490b/tenor.gif?itemid=19964243",
+        "title": "Como a Konan era chamada pela aldeia da chuva?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Deusa",
+           "Anjo",
+           "Líder",
+           "Mensageira"
+        ]
+      },
+      {
+        "image": "https://media.tenor.com/images/164a619d208e57a3b45dc89369bef947/tenor.gif",
+        "title": "Antes do Kisame, quem era o dono da Samehada?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+           "Fuguki Suikazan",
+           "Jinin Akibino",
+           "Raiga Kurosuki",
+           "Jinpachi Munashi"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/18def43e6494cc48b6a7cfdbde6a24c2/tenor.gif?itemid=15142264",
+        "title": "Qual membro da akatsuki foi morto pelo Tobi?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Nagato",
+           "Konan",
+           "Kisame",
+           "Deidara"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/c8660cb3e0e72a3b70731a2f6116ffc1/tenor.gif?itemid=8467078",
+        "title": "Qual foi o primeiro jutsu do naruto?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "Clone das Sombras",
+           "Invocação",
+           "Jutsu Sexy",
+           "Jutsu de Troca"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/f09db38511619d6dc049bd977ff847f7/tenor.gif?itemid=8212768",
+        "title": "Quem é o único que não consegue fazer rasengan?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "Naruto",
+           "Minato",
+           "Konohamaru",
+           "Yamato"
+        ]
+      },
+      {
+        "image": "https://media.tenor.com/images/eee2fbb8765bc9ad875887ece6c0af8a/tenor.gif",
+        "title": "Qual tipo de jutsu o clã Nara tem?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Vento",
+           "Sombras",
+           "Fumaça",
+           "Cristal"
+        ]
+      },
+      {
+        "image": "https://media.tenor.com/images/e773ef70a46a5932161d40f4d0b99e1c/tenor.gif",
+        "title": "Qual era a função da Samehada?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Comer os adversários",
+           "Comer chakra",
+           "Dilacerar os corpos",
+           "Sugar energia vital"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/aea9dc8117a43f23da30d0a2efa7003f/tenor.gif?itemid=9629838",
+        "title": "Quem criou a Vila da Cachoeira?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Hanzo",
+           "Kakuzu",
+           "Danzo",
+           "Suigesto"
+        ]
+      }
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#C36F43",
+        "secondary": "#D2892C",
+        "mainBg": "#ff9c58",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
