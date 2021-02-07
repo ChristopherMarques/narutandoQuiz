@@ -13,7 +13,7 @@
 
 ## How can you see the project?
 
-> I've deployed this project on Vercel(The company that have created NextJS), and you can see a live preview here: [`Live Preview`]()
+> I've deployed this project on Vercel(The company that have created NextJS), and you can see a live preview here: [`Live Preview`](https://narutando-quiz.vercel.app)
 
 ## If you want to study with this project, here are steps:
 
